@@ -1,6 +1,7 @@
 Hello Softuni let me show you
 how to make your first repo.
 
+Updating with Bash…
 Update with Tortoise…
 
 Updating with new line here
